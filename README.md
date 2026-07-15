@@ -1229,9 +1229,7 @@ Each completed project is intended to include:
 
 ## Author
 
-**Md Moklesur Rahman**
-Wireless/RF/PHY Systems Engineer
-Focus areas: 5G NR, RF system specification, beamforming, beamforming calibration, RF/PHY simulation, wireless validation, MATLAB/Python modeling, and radio-system performance analysis.
+Md Moklesur Rahman | RF / Wireless / System Specification Engineer | LinkedIn: linkedin.com/in/md-moklesur-rahman-65a63962
 
 ---
 
