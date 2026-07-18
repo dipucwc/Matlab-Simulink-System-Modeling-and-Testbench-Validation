@@ -77,7 +77,7 @@ The repository covers the following technical areas:
 ```text
 matlab-simulink-system-modeling-and-testbench-validation/
 │
-├── 01_digital_filter_simulink_testbench/
+├── 01_5G_NR_Massive_MIMO_Simulink_Testbench/
 │   ├── matlab/
 │   ├── simulink/
 │   ├── test_vectors/
